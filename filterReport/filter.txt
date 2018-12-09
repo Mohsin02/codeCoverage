@@ -1,0 +1,5 @@
+fs = require('fs');
+var m = JSON.parse(fs.readFileSync('fileName.json').toString());
+m.forEach(function(p){
+console.log(p);
+}
