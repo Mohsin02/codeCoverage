@@ -1,7 +1,7 @@
 # CoverageOnFly
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
-## Get Setup Instrunction
+## Get Setup Instruction
 https://medium.com/@mohammadmohsin_68706/angular-2-4-5-6-4-typescript-on-the-fly-code-coverage-using-istanbul-selenium-jasmine-or-any-ffb2849e54af
 ## Development server
 
